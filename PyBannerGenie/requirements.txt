@@ -1,0 +1,10 @@
+pyfiglet
+colorama
+Pillow
+pyfiglet
+time
+sys
+os
+argparse
+typing
+unittest
