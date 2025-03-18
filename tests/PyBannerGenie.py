@@ -270,7 +270,7 @@ def main():
 
         banner()
         banner_info(".PYBANNERGENIE. ELEVATING ASCII ART: PRECISION, CREATIVITY & CODE.")
-        print(Style.BRIGHT + Fore.MAGENTA + "A User-Friendly Python Tool, Designed To Creat High Quality,\nProfessional Costum Banner, Tailored To YOUR Specific NEEDs.")
+        print(Style.BRIGHT + Fore.MAGENTA + "A User-Friendly Python Tool, Designed To Creat High Quality,\nProfessional Custom Banner, Tailored To YOUR Specific NEEDs.")
         print(Style.BRIGHT + Fore.MAGENTA + "YOU Can Copy Banner Text, Save To File Or Save To Image.")
 
         while True:
