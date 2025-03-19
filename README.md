@@ -5,7 +5,7 @@
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Tests](https://github.com/[YourUsername]/PyBannerGenie/actions/workflows/test.yml/badge.svg)](https://github.com/[YourUsername]/PyBannerGenie/actions/workflows/test.yml)
 
-<img src="https://drive.google.com/uc?export=view&id="1Fe19L2oRCG-5mAqy9fiY03Ek82b95LWW" alt="PyBannerimg" title="PyBanner" style="width: 100%; max-width: 600px; display: block; margin: auto;>
+<img src="https://drive.google.com/uc?export=view&id=1Fe19L2oRCG-5mAqy9fiY03Ek82b95LWW" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
 **Generate eye-catching square banners with ease using Python!**
 
