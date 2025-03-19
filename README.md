@@ -105,5 +105,5 @@ Please note that this project has a Code of Conduct. By participating in this pr
     *   `colorama`
     *   `Pillow`
 
-*   Thanks !
-*   Please Collaborate with Me!
+*   Please Collaborate with Me.
+*   Thanks!
