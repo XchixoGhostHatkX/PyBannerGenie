@@ -104,7 +104,7 @@ Please note that this project has a Code of Conduct. By participating in this pr
     *   `pyfiglet`
     *   `colorama`
     *   `Pillow`
-
+    *   
 
 *   Please Collaborate with Me.
 *   Thanks!
