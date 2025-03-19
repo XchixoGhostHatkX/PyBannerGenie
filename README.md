@@ -98,6 +98,7 @@ For bug reports, feature requests, or general questions, please use GitHub issue
 ## Code of Conduct
 
 Please note that this project has a Code of Conduct. By participating in this project, you agree to abide by its terms.
+See [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) To view Project terms.
 
 ## Credits
 
