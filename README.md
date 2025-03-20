@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/downloads/release/python-312/)
 [![Code Style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
-[![Tests](https://github.com/[YourUsername]/PyBannerGenie/actions/workflows/test.yml/badge.svg)](https://github.com/[YourUsername]/PyBannerGenie/actions/workflows/test.yml)
+[![Tests](https://github.com/[YourUsername]/PyBannerGenie/actions/workflows/test.yml/badge.svg)](https://github.com/XchixoGhostHatkX/PyBannerGenie/actions/workflows/test.yml)
 
 <img src="https://drive.google.com/uc?export=view&id=1Fe19L2oRCG-5mAqy9fiY03Ek82b95LWW" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
 
