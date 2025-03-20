@@ -20,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install pyfiglet colorama pillow flake8 unittest
+          pip install pyfiglet colorama pillow flake8
 
       - name: Run tests
         run: |
